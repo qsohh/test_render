@@ -1,0 +1,8 @@
+# Binance SDK
+python-binance
+
+# 
+requests
+
+# Compatibility consideration (local env)
+python-dotenv

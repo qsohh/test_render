@@ -1,0 +1,21 @@
+# .gitignore for HinfoHub
+
+# Folders to ignore
+.vscode/
+__pycache__/
+
+# Ignore local stored data
+data/
+
+# Files to ignore
+hhnote.txt
+*.code-workspace
+test/*
+*.log
+.env
+*.env
+
+# Ignore local settings.py file as containing sensitive information
+# Keep settings_template.py as a template for
+settings.py
+!settings_template.py
